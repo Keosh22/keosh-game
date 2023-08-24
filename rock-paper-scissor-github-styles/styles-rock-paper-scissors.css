@@ -81,6 +81,7 @@ button:hover {
   }
 
   .title-container {
+    width: 100%;
     color: rgb(255, 255, 254);
     display: flex;
     font-size: 36px;
@@ -92,6 +93,7 @@ button:hover {
   .js-result, .js-moves, .js-score {
     color: rgb(255, 255, 254);
     font-size: 15px;
+    width: 100%;
   }
 }
 
