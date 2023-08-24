@@ -81,23 +81,25 @@ button:hover {
   }
 
   .title-container {
+    margin: 0;
     width: 100%;
     color: rgb(255, 255, 254);
     display: flex;
-    font-size: 36px;
+    font-size: 26px;
     align-items: center;
     justify-content: center;
     font-weight: 500;
   }
 
   .js-result, .js-moves, .js-score {
+    margin: 0;
     color: rgb(255, 255, 254);
     font-size: 15px;
     width: 100%;
   }
 
   body {
-    margin: 15px;
+    margin: 10px;
     font-family: Roboto,Arial;
     background-color: rgb(85, 66, 61); 
   }
