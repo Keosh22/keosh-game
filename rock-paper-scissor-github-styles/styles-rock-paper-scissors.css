@@ -91,13 +91,13 @@ button:hover {
     font-weight: 500;
   }
 
- .reset-button-container, .js-result, .js-moves, .js-score {
+ .reset-button-container, .js-result, .js-moves, .score-container {
     display: flex;
     flex-direction: row;
     justify-content: center;
     color: rgb(255, 255, 254);
     font-size: 15px;
-    width: 100%;
+   
   }
 
   body {
