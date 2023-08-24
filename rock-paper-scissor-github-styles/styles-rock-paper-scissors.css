@@ -92,7 +92,11 @@ button:hover {
   }
 
   .js-result, .js-moves, .js-score {
-    margin: 0;
+    display: flex;
+  flex-direction: row;
+  justify-content: center;
+ 
+   margin: 0;
     color: rgb(255, 255, 254);
     font-size: 15px;
     width: 100%;
@@ -103,5 +107,7 @@ button:hover {
     font-family: Roboto,Arial;
     background-color: rgb(85, 66, 61); 
   }
+
+  
 }
 
