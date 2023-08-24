@@ -95,5 +95,11 @@ button:hover {
     font-size: 15px;
     width: 100%;
   }
+
+  body {
+    margin: 150px;
+    font-family: Roboto,Arial;
+    background-color: rgb(85, 66, 61); 
+  }
 }
 
